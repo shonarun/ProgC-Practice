@@ -18,3 +18,14 @@ The workspace is divided into core conceptual modules and formal lab experiments
 * **`Labs/`**: Formal laboratory experiment deliverables.
 
 ---
+## ⚙️ Compilation & Execution
+
+All files are written in standard C. To compile and run a file with strict warnings enabled (recommended for catching memory and type errors early), use `gcc`:
+
+```bash
+# Compile with all warnings enabled
+gcc -Wall -Wextra filename.c -o output_name
+
+# Execute the compiled binary
+./output_name
+```
