@@ -1,0 +1,21 @@
+# Module 3: Functions & Recursion Practice
+
+- [ ] **q001:** Write a recursive function to calculate the factorial of a given positive integer.
+- [ ] **q007:** Write a recursive function to solve the Tower of Hanoi puzzle for `n` disks.
+- [ ] **q012:** Write a recursive function to compute `x` raised to the power `y` (x^y).
+- [ ] **q017:** Write a recursive function to print the elements of an array in reverse order.
+- [ ] **q024:** Write a recursive function to sum the digits of a given positive integer.
+- [ ] **q030:** Write a recursive function to convert a decimal number to binary.
+- [ ] **q036:** Write a recursive function to check if an array of integers is sorted in ascending order.
+- [ ] **q041:** Write a function to check whether a given string is a palindrome using recursion.
+- [ ] **q046:** Write a recursive function to generate all permutations of a given string.
+- [ ] **q051:** Write a recursive function to find the least common multiple (LCM) of two numbers.
+- [ ] **q057:** Write a recursive function to multiply two positive integers without using the `*` operator (use repeated addition).
+- [ ] **q064:** Write a recursive function to print the Fibonacci series up to `n` terms.
+- [ ] **q070:** Write a recursive function to find the maximum element in an array.
+- [ ] **q076:** Write a recursive function to count the occurrences of a specific character in a string.
+- [ ] **q081:** Write a recursive function to check if a number is prime.
+- [ ] **q087:** Write a recursive function to print the binary representation of an integer value.
+- [ ] **q091:** Write a recursive function to evaluate a simple prefix arithmetic expression represented as a string.
+- [ ] **q096:** Write a recursive function to find a valid path in a simple 2D maze (represented as a 2D array of 0s and 1s).
+- [ ] **q100:** Write a recursive function that computes and returns the length of a string without using any loops, local variable counters, or standard library functions.

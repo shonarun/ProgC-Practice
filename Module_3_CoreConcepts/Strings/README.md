@@ -1,0 +1,28 @@
+# Module 3: Strings Practice
+
+- [ ] **q005:** Write a program to check if a given string is an anagram of another string.
+- [ ] **q006:** Write a function that reverses a string in-place without using any extra arrays.
+- [ ] **q008:** Create an array of pointers to strings and write code to sort these strings in lexicographical order.
+- [ ] **q009:** Write a program to find the frequency of each character in a given string.
+- [ ] **q013:** Implement a custom `strcpy()` function using pointers.
+- [ ] **q016:** Write a program that finds the longest word in a given sentence (string).
+- [ ] **q020:** Write a program to find the first non-repeating character in a string.
+- [ ] **q025:** Write a program to extract a substring from a given string, given the starting index and length.
+- [ ] **q029:** Write a C program to compare two strings using pointers, ignoring case sensitivity.
+- [ ] **q033:** Write a function that removes all occurrences of a specific character from a string.
+- [ ] **q037:** Write a program to count the number of vowels, consonants, digits, and special characters in a string.
+- [ ] **q043:** Implement a custom `strcmp()` function using pointers that returns the difference of the first non-matching characters.
+- [ ] **q047:** Write a program to count the total number of words in a string, assuming single spaces between words.
+- [ ] **q049:** Write a program to convert a lowercase string to uppercase using pointer arithmetic without using `ctype.h`.
+- [ ] **q055:** Write a program to remove extra whitespaces from a string (replace multiple contiguous spaces with a single space).
+- [ ] **q059:** Write a function that takes a string and replaces all occurrences of a specific word with another word of equal length.
+- [ ] **q060:** Write a program to read a sentence and print the sentence with the words reversed (e.g., "Hello World" -> "World Hello").
+- [ ] **q066:** Implement a custom `strchr()` function that returns a pointer to the first occurrence of a character in a string.
+- [ ] **q067:** Write a program to find the longest palindromic substring within a given string.
+- [ ] **q068:** Write a function to split a string into an array of words based on a delimiter character.
+- [ ] **q073:** Write a function that converts an integer to its string equivalent (similar to `itoa()`).
+- [ ] **q080:** Write a C program that removes all duplicate characters from a given string.
+- [ ] **q084:** Implement a custom `strstr()` function to find the first occurrence of a substring within a string using pointer iteration.
+- [ ] **q088:** Write a program that converts a string representing a hexadecimal number into its integer equivalent using pointer traversal.
+- [ ] **q094:** Write a C program to count the frequency of each distinct word in a given text string.
+- [ ] **q098:** Write a function that takes a string containing multiple tabs and spaces, and normalizes it to single spaces using in-place pointer manipulation.

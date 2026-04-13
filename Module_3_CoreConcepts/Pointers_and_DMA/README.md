@@ -1,0 +1,27 @@
+# Module 3: Pointers & Dynamic Memory Allocation Practice
+
+- [ ] **q002:** Write a program to allocate memory dynamically for an array of `n` floats using `malloc()`, calculate their average, and then free the memory.
+- [ ] **q003:** Write a function that takes an integer array and its size, and returns the maximum element using pointer arithmetic instead of array indexing.
+- [ ] **q014:** Write a C program to merge two sorted arrays of different sizes into a single dynamically allocated sorted array.
+- [ ] **q018:** Write a program to reallocate memory for an integer array from size `n` to `2n` using `realloc()` and initialize the newly added elements to zero.
+- [ ] **q022:** Write a program using pointers to swap two arrays of the same size.
+- [ ] **q026:** Write a program to allocate memory for a ragged 2D array (where each row has a different number of columns) and populate it.
+- [ ] **q032:** Write a program to dynamically allocate a 3D array of integers and initialize all elements to 1.
+- [ ] **q034:** Write a program to find the intersection of two arrays using pointers.
+- [ ] **q038:** Write a function to shift all elements of a 1D array to the right by `k` steps using a dynamically allocated temporary array.
+- [ ] **q039:** Write a program to simulate returning multiple values from a function by passing pointers as arguments.
+- [ ] **q044:** Write a program to dynamically allocate an array of function pointers and call them in a loop.
+- [ ] **q048:** Write a function to concatenate two dynamically allocated 1D arrays and return a pointer to the newly merged array.
+- [ ] **q052:** Write a program to allocate memory for an array of pointers, where each pointer points to a dynamically allocated string of variable length.
+- [ ] **q061:** Write a function to return a pointer to the largest element in an array of integers.
+- [ ] **q062:** Write a program that uses `calloc()` to allocate memory for an array of `n` integers and verifies that they are initialized to zero.
+- [ ] **q071:** Write a program that takes an array of integers and returns a newly dynamically allocated array containing only the even numbers from the original array.
+- [ ] **q075:** Define a struct `Inventory` and write a function to dynamically expand its internal array size using `realloc()` when adding a new item exceeds current capacity.
+- [ ] **q078:** Write a function to dynamically allocate memory for a jagged array of strings and populate it from user input.
+- [ ] **q079:** Write a program that compares two arrays and returns a dynamically allocated array containing elements present in the first array but not in the second.
+- [ ] **q083:** Write a program using pointers to reverse the elements of a dynamically allocated array.
+- [ ] **q085:** Write a function to multiply two dynamically allocated matrices and return the resulting matrix pointer.
+- [ ] **q089:** Write a function that merges two sorted arrays into a dynamically allocated third array, automatically discarding any duplicate values.
+- [ ] **q092:** Write a program to dynamically allocate memory for a 2D array using a single contiguous block of memory and an array of row pointers pointing into that block.
+- [ ] **q093:** Write a function to find the prefix sum of an array and store it in a dynamically allocated array.
+- [ ] **q097:** Write a program that implements a basic memory pool allocator by calling `malloc()` once for a large block and serving smaller pointer chunks from it sequentially.
