@@ -1,8 +1,8 @@
 # Module 3: Functions & Recursion Practice
 
-- [ ] **q001:** Write a recursive function to calculate the factorial of a given positive integer.
+- [x] **q001:** Write a recursive function to calculate the factorial of a given positive integer.
 - [ ] **q007:** Write a recursive function to solve the Tower of Hanoi puzzle for `n` disks.
-- [ ] **q012:** Write a recursive function to compute `x` raised to the power `y` (x^y).
+- [x] **q012:** Write a recursive function to compute `x` raised to the power `y` (x^y).
 - [ ] **q017:** Write a recursive function to print the elements of an array in reverse order.
 - [ ] **q024:** Write a recursive function to sum the digits of a given positive integer.
 - [ ] **q030:** Write a recursive function to convert a decimal number to binary.
