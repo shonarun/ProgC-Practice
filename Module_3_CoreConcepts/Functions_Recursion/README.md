@@ -4,7 +4,7 @@
 - [ ] **q007:** Write a recursive function to solve the Tower of Hanoi puzzle for `n` disks.
 - [x] **q012:** Write a recursive function to compute `x` raised to the power `y` (x^y).
 - [ ] **q017:** Write a recursive function to print the elements of an array in reverse order.
-- [ ] **q024:** Write a recursive function to sum the digits of a given positive integer.
+- [x] **q024:** Write a recursive function to sum the digits of a given positive integer.
 - [ ] **q030:** Write a recursive function to convert a decimal number to binary.
 - [ ] **q036:** Write a recursive function to check if an array of integers is sorted in ascending order.
 - [ ] **q041:** Write a function to check whether a given string is a palindrome using recursion.
