@@ -4,7 +4,7 @@
 - [ ] **q003:** Write a function that takes an integer array and its size, and returns the maximum element using pointer arithmetic instead of array indexing.
 - [ ] **q014:** Write a C program to merge two sorted arrays of different sizes into a single dynamically allocated sorted array.
 - [ ] **q018:** Write a program to reallocate memory for an integer array from size `n` to `2n` using `realloc()` and initialize the newly added elements to zero.
-- [ ] **q022:** Write a program using pointers to swap two arrays of the same size.
+- [x] **q022:** Write a program using pointers to swap two arrays of the same size.
 - [ ] **q026:** Write a program to allocate memory for a ragged 2D array (where each row has a different number of columns) and populate it.
 - [ ] **q032:** Write a program to dynamically allocate a 3D array of integers and initialize all elements to 1.
 - [ ] **q034:** Write a program to find the intersection of two arrays using pointers.
