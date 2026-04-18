@@ -18,9 +18,10 @@ unsigned long lcm(unsigned int a, unsigned int b) {
     if (a == 0 || b == 0) return 0;
     unsigned int max = (a > b) ? a : b;
     unsigned int min = (a < b) ? a : b;
-    for (unsigned int i = max; i <= a * b; i += max) {
+    for (unsigned int i = max; i < a * b; i += max) {
         if (i % min == 0) {
             return i;
         }
     }
+    return a * b;
 }
