@@ -1,8 +1,9 @@
 // Write a function to check if an array of integers is sorted in ascending order.
 
 #include <stdio.h>
+#include <stdbool.h>
 
-int array_is_sorted(int arr[], size_t size);
+bool array_is_sorted(int arr[], size_t size);
 
 int main(void) {
     int arr[] = {1, 5, 6, 8, 9};
@@ -16,11 +17,11 @@ int main(void) {
     return 0;
 }
 
-int array_is_sorted(int arr[], size_t size) {
+bool array_is_sorted(int arr[], size_t size) {
     for (size_t i = 1; i < size - 1; i++) {
         if (arr[i - 1] > arr[i]) {
-            return 0;
+            return false;
         }
     }
-    return 1;
+    return true;
 }
