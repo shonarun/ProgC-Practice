@@ -15,12 +15,10 @@ int main(void) {
 unsigned max_ele(int arr[], unsigned size) {
     unsigned max_idx = 0;
     int max = arr[0];
-    int ele;
     for (unsigned i = 1; i < size; i++) {
-        ele = arr[i];
-        if (ele > max) {
+        if (arr[i] > max) {
             max_idx = i;
-            max = ele;
+            max = arr[i];
         }
     }
     return max_idx;
