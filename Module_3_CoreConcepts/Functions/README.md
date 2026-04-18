@@ -1,6 +1,6 @@
 # Module 3: Functions Practice
 
-- [ ] **q101:** Write a function to calculate the factorial of a given positive integer.
+- [x] **q101:** Write a function to calculate the factorial of a given positive integer.
 - [ ] **q102:** Write a function to solve the Tower of Hanoi puzzle for `n` disks.
 - [ ] **q103:** Write a function to compute `x` raised to the power `y` (x^y).
 - [ ] **q104:** Write a function to print the elements of an array in reverse order.
