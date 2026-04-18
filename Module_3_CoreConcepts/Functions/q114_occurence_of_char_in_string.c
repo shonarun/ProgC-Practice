@@ -13,13 +13,12 @@ int main(void) {
 }
 
 unsigned count_occ(char c, char *s) {
-    unsigned i = 0;
     unsigned count = 0;
-    while (*(s + i) != '\0') {
-        if (*(s + i) == c) {
+    while (*s) {
+        if (*s == c) {
             count++;
         }
-        i++;
+        s++;
     }
     return count;
 }
