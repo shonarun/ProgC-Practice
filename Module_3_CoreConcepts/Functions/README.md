@@ -12,7 +12,7 @@
 - [ ] **q110:** Write a function to find the least common multiple (LCM) of two numbers.
 - [ ] **q111:** Write a function to multiply two positive integers without using the `*` operator (use repeated addition).
 - [ ] **q112:** Write a function to print the Fibonacci series up to `n` terms.
-- [ ] **q113:** Write a function to find the maximum element in an array.
+- [x] **q113:** Write a function to find the maximum element in an array.
 - [ ] **q114:** Write a function to count the occurrences of a specific character in a string.
 - [ ] **q115:** Write a function to check if a number is prime.
 - [ ] **q116:** Write a function to print the binary representation of an integer value.
