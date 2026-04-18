@@ -5,7 +5,7 @@
 - [x] **q103:** Write a function to compute `x` raised to the power `y` (x^y).
 - [x] **q104:** Write a function to print the elements of an array in reverse order.
 - [x] **q105:** Write a function to sum the digits of a given positive integer.
-- [ ] **q106:** Write a function to convert a decimal number to binary.
+- [x] **q106:** Write a function to convert a decimal number to binary.
 - [x] **q107:** Write a function to check if an array of integers is sorted in ascending order.
 - [x] **q108:** Write a function to check whether a given string is a palindrome.
 - [ ] **q109:** Write a function to generate all permutations of a given string.
