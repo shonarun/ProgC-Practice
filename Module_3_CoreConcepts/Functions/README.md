@@ -13,7 +13,7 @@
 - [ ] **q111:** Write a function to multiply two positive integers without using the `*` operator (use repeated addition).
 - [ ] **q112:** Write a function to print the Fibonacci series up to `n` terms.
 - [x] **q113:** Write a function to find the maximum element in an array.
-- [ ] **q114:** Write a function to count the occurrences of a specific character in a string.
+- [x] **q114:** Write a function to count the occurrences of a specific character in a string.
 - [ ] **q115:** Write a function to check if a number is prime.
 - [ ] **q116:** Write a function to print the binary representation of an integer value.
 - [ ] **q117:** Write a function to evaluate a simple prefix arithmetic expression represented as a string.
