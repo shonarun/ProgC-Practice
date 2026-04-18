@@ -13,7 +13,7 @@
 - [ ] **q044:** Write a program to dynamically allocate an array of function pointers and call them in a loop.
 - [ ] **q048:** Write a function to concatenate two dynamically allocated 1D arrays and return a pointer to the newly merged array.
 - [ ] **q052:** Write a program to allocate memory for an array of pointers, where each pointer points to a dynamically allocated string of variable length.
-- [ ] **q061:** Write a function to return a pointer to the largest element in an array of integers.
+- [x] **q061:** Write a function to return a pointer to the largest element in an array of integers.
 - [ ] **q062:** Write a program that uses `calloc()` to allocate memory for an array of `n` integers and verifies that they are initialized to zero.
 - [ ] **q071:** Write a program that takes an array of integers and returns a newly dynamically allocated array containing only the even numbers from the original array.
 - [ ] **q075:** Define a struct `Inventory` and write a function to dynamically expand its internal array size using `realloc()` when adding a new item exceeds current capacity.
