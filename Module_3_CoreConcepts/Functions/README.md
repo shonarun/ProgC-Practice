@@ -15,7 +15,7 @@
 - [x] **q113:** Write a function to find the maximum element in an array.
 - [x] **q114:** Write a function to count the occurrences of a specific character in a string.
 - [x] **q115:** Write a function to check if a number is prime.
-- [ ] **q116:** Write a function to print the binary representation of an integer value.
+- [x] **q116:** Write a function to print the binary representation of an integer value.
 - [ ] **q117:** Write a function to evaluate a simple prefix arithmetic expression represented as a string.
 - [ ] **q118:** Write a function to find a valid path in a simple 2D maze (represented as a 2D array of 0s and 1s).
 - [ ] **q119:** Write a function that computes and returns the length of a string without using any loops, local variable counters, or standard library functions.
