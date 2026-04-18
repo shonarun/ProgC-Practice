@@ -18,11 +18,18 @@ int main(void) {
 }
 
 bool is_prime(unsigned long long num) {
-    unsigned long long i;
-    for (i = 2; i * i <= num; i++) {
-        if (!(num % i)) {
-            return false;
+    if (num < 2) {
+        return false;
+    } else if (num == 2) {
+        return true;
+    } else if (!(num % 2)) {
+        return false;
+    } else {
+        for (unsigned long long i = 3; i * i <= num; i += 2) {
+            if (!(num % i)) {
+                return false;
+            }
         }
+        return true;
     }
-    return true;
 }
