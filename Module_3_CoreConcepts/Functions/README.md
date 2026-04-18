@@ -11,7 +11,7 @@
 - [ ] **q109:** Write a function to generate all permutations of a given string.
 - [ ] **q110:** Write a function to find the least common multiple (LCM) of two numbers.
 - [x] **q111:** Write a function to multiply two positive integers without using the `*` operator (use repeated addition).
-- [ ] **q112:** Write a function to print the Fibonacci series up to `n` terms.
+- [x] **q112:** Write a function to print the Fibonacci series up to `n` terms.
 - [x] **q113:** Write a function to find the maximum element in an array.
 - [x] **q114:** Write a function to count the occurrences of a specific character in a string.
 - [x] **q115:** Write a function to check if a number is prime.
