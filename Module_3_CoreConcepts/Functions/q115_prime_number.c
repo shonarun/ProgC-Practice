@@ -19,7 +19,7 @@ int main(void) {
 
 bool is_prime(unsigned long long num) {
     unsigned long long i;
-    for (i = 2; i <= num / 2; i++) {
+    for (i = 2; i * i <= num; i++) {
         if (!(num % i)) {
             return false;
         }
