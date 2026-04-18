@@ -6,7 +6,7 @@
 - [x] **q104:** Write a function to print the elements of an array in reverse order.
 - [x] **q105:** Write a function to sum the digits of a given positive integer.
 - [ ] **q106:** Write a function to convert a decimal number to binary.
-- [ ] **q107:** Write a function to check if an array of integers is sorted in ascending order.
+- [x] **q107:** Write a function to check if an array of integers is sorted in ascending order.
 - [ ] **q108:** Write a function to check whether a given string is a palindrome.
 - [ ] **q109:** Write a function to generate all permutations of a given string.
 - [ ] **q110:** Write a function to find the least common multiple (LCM) of two numbers.
