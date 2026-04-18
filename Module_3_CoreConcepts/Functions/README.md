@@ -3,7 +3,7 @@
 - [x] **q101:** Write a function to calculate the factorial of a given positive integer.
 - [ ] **q102:** Write a function to solve the Tower of Hanoi puzzle for `n` disks.
 - [x] **q103:** Write a function to compute `x` raised to the power `y` (x^y).
-- [ ] **q104:** Write a function to print the elements of an array in reverse order.
+- [x] **q104:** Write a function to print the elements of an array in reverse order.
 - [ ] **q105:** Write a function to sum the digits of a given positive integer.
 - [ ] **q106:** Write a function to convert a decimal number to binary.
 - [ ] **q107:** Write a function to check if an array of integers is sorted in ascending order.
