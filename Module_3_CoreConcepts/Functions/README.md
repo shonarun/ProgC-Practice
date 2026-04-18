@@ -1,0 +1,21 @@
+# Module 3: Functions Practice
+
+- [ ] **q101:** Write a function to calculate the factorial of a given positive integer.
+- [ ] **q102:** Write a function to solve the Tower of Hanoi puzzle for `n` disks.
+- [ ] **q103:** Write a function to compute `x` raised to the power `y` (x^y).
+- [ ] **q104:** Write a function to print the elements of an array in reverse order.
+- [ ] **q105:** Write a function to sum the digits of a given positive integer.
+- [ ] **q106:** Write a function to convert a decimal number to binary.
+- [ ] **q107:** Write a function to check if an array of integers is sorted in ascending order.
+- [ ] **q108:** Write a function to check whether a given string is a palindrome.
+- [ ] **q109:** Write a function to generate all permutations of a given string.
+- [ ] **q110:** Write a function to find the least common multiple (LCM) of two numbers.
+- [ ] **q111:** Write a function to multiply two positive integers without using the `*` operator (use repeated addition).
+- [ ] **q112:** Write a function to print the Fibonacci series up to `n` terms.
+- [ ] **q113:** Write a function to find the maximum element in an array.
+- [ ] **q114:** Write a function to count the occurrences of a specific character in a string.
+- [ ] **q115:** Write a function to check if a number is prime.
+- [ ] **q116:** Write a function to print the binary representation of an integer value.
+- [ ] **q117:** Write a function to evaluate a simple prefix arithmetic expression represented as a string.
+- [ ] **q118:** Write a function to find a valid path in a simple 2D maze (represented as a 2D array of 0s and 1s).
+- [ ] **q119:** Write a function that computes and returns the length of a string without using any loops, local variable counters, or standard library functions.
