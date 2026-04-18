@@ -7,7 +7,7 @@
 - [x] **q105:** Write a function to sum the digits of a given positive integer.
 - [ ] **q106:** Write a function to convert a decimal number to binary.
 - [x] **q107:** Write a function to check if an array of integers is sorted in ascending order.
-- [ ] **q108:** Write a function to check whether a given string is a palindrome.
+- [x] **q108:** Write a function to check whether a given string is a palindrome.
 - [ ] **q109:** Write a function to generate all permutations of a given string.
 - [ ] **q110:** Write a function to find the least common multiple (LCM) of two numbers.
 - [x] **q111:** Write a function to multiply two positive integers without using the `*` operator (use repeated addition).
