@@ -10,7 +10,7 @@
 - [ ] **q108:** Write a function to check whether a given string is a palindrome.
 - [ ] **q109:** Write a function to generate all permutations of a given string.
 - [ ] **q110:** Write a function to find the least common multiple (LCM) of two numbers.
-- [ ] **q111:** Write a function to multiply two positive integers without using the `*` operator (use repeated addition).
+- [x] **q111:** Write a function to multiply two positive integers without using the `*` operator (use repeated addition).
 - [ ] **q112:** Write a function to print the Fibonacci series up to `n` terms.
 - [x] **q113:** Write a function to find the maximum element in an array.
 - [x] **q114:** Write a function to count the occurrences of a specific character in a string.
