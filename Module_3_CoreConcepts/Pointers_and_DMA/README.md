@@ -10,7 +10,7 @@
 - [ ] **q034:** Write a program to find the intersection of two arrays using pointers.
 - [ ] **q038:** Write a function to shift all elements of a 1D array to the right by `k` steps using a dynamically allocated temporary array.
 - [ ] **q039:** Write a program to simulate returning multiple values from a function by passing pointers as arguments.
-- [ ] **q044:** Write a program to dynamically allocate an array of function pointers and call them in a loop.
+- [x] **q044:** Write a program to dynamically allocate an array of function pointers and call them in a loop.
 - [ ] **q048:** Write a function to concatenate two dynamically allocated 1D arrays and return a pointer to the newly merged array.
 - [ ] **q052:** Write a program to allocate memory for an array of pointers, where each pointer points to a dynamically allocated string of variable length.
 - [x] **q061:** Write a function to return a pointer to the largest element in an array of integers.
