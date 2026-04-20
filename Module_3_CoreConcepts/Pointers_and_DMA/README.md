@@ -1,7 +1,7 @@
 # Module 3: Pointers & Dynamic Memory Allocation Practice
 
 - [x] **q002:** Write a program to allocate memory dynamically for an array of `n` floats using `malloc()`, calculate their average, and then free the memory.
-- [ ] **q003:** Write a function that takes an integer array and its size, and returns the maximum element using pointer arithmetic instead of array indexing.
+- [x] **q003:** Write a function that takes an integer array and its size, and returns the maximum element using pointer arithmetic instead of array indexing.
 - [ ] **q014:** Write a C program to merge two sorted arrays of different sizes into a single dynamically allocated sorted array.
 - [ ] **q018:** Write a program to reallocate memory for an integer array from size `n` to `2n` using `realloc()` and initialize the newly added elements to zero.
 - [x] **q022:** Write a program using pointers to swap two arrays of the same size.
